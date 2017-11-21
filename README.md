@@ -6,8 +6,8 @@ Quic是一种非常先进同时也在快速普及的协议，它能够大幅提�
 Demo使用了[Cronet](https://chromium.googlesource.com/chromium/src/+/master/components/cronet?autodive=0%2F%2F)
 ，Google Chromium的开源网络库，同时在Cronet Sample的基础上简单修改，遵循Apache2.0开源许可证发布。
 界面截屏如下：
-![](https://github.com/lancelotluo/clb_quic_demo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171121175153.png)
-![](https://github.com/lancelotluo/clb_quic_demo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201711211751531.png)
+![](https://github.com/lancelotluo/clb_quic_demo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171121175153.png){:height="100px" width="400px"}
+![](https://github.com/lancelotluo/clb_quic_demo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201711211751531.png){:height="100px" width="400px"}
 ### 如何使用
 ---------------
 1. git clone下载之后直接使用android studio打开即可编译和运行。
